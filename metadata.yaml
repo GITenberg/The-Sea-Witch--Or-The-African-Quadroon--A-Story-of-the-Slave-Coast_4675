@@ -1,0 +1,31 @@
+_repo: The-Sea-Witch--Or-The-African-Quadroon--A-Story-of-the-Slave-Coast_4675
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ballou, Maturin Murray
+    aliases:
+    - Ballou, Maturin M. (Maturin Murray)
+    - Forester, Frank
+    - Ballou, M. M. (Maturin Murray)
+    - Murray, Lieutenant
+    birthdate: 1820
+    deathdate: 1895
+    gutenberg_agent_id: '1543'
+    url: http://www.gutenberg.org/2009/agents/1543
+    wikipedia: http://en.wikipedia.org/wiki/Maturin_Murray_Ballou
+description: ''
+gutenberg_bookshelf: Africa
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4675'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Slave trade -- Africa -- Fiction'
+- GITenberg
+title: 'The Sea-Witch; Or, The African Quadroon: A Story of the Slave Coast'
+url: http://www.gutenberg.org/ebooks/4675

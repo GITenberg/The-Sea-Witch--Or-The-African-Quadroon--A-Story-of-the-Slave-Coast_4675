@@ -1,5 +1,8 @@
 _repo: The-Sea-Witch--Or-The-African-Quadroon--A-Story-of-the-Slave-Coast_4675
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ballou, Maturin Murray
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1543
     wikipedia: http://en.wikipedia.org/wiki/Maturin_Murray_Ballou
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4675#The-Sea-Witch--Or-The-African-Quadroon--A-Story-of-the-Slave-Coast
 gutenberg_bookshelf: Africa
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
